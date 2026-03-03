@@ -6,7 +6,7 @@
 
 A comprehensive collection of legal analysis skills for AI assistants. These skills enable LLMs to provide structured legal analysis, document review, and drafting assistance across contracts, corporate law, tax planning, and compliance.
 
-> **Disclaimer**: These skills assist with legal analysis but do not provide legal advice. All output should be reviewed by qualified legal professionals.
+> ⚠️ **Disclaimer**: These skills are educational tools, NOT legal advice. See [LEGAL_DISCLAIMER.md](./LEGAL_DISCLAIMER.md) for full terms. Always consult qualified attorneys.
 
 ## 🎯 What's Included
 
@@ -125,7 +125,9 @@ Contributions welcome! Please:
 
 ## ⚠️ Disclaimer
 
-These skills are educational tools that assist with legal analysis. They are NOT a substitute for professional legal advice. Always consult qualified attorneys for legal decisions.
+These skills are educational tools that assist with legal analysis. They are **NOT legal advice** and are **NOT a substitute for professional legal counsel**. 
+
+By using these materials, you agree to the terms in [LEGAL_DISCLAIMER.md](./LEGAL_DISCLAIMER.md). Always consult qualified attorneys for legal decisions.
 
 ---
 
