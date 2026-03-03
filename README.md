@@ -64,7 +64,7 @@ A comprehensive collection of legal analysis skills for AI assistants. These ski
 
 1. Clone this repo to your workspace:
 ```bash
-git clone https://github.com/duraninci/legal-skills.git ~/skills/legal-skills
+git clone https://github.com/duraninci/openclaw-legal-skills.git ~/skills/legal-skills
 ```
 
 2. Skills auto-load from `skills/` directory, or reference directly:

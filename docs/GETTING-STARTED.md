@@ -16,7 +16,7 @@ Legal Skills are structured prompts that give AI assistants specialized knowledg
 ### Option 1: Clone the Repository
 
 ```bash
-git clone https://github.com/duraninci/legal-skills.git
+git clone https://github.com/duraninci/openclaw-legal-skills.git
 ```
 
 ### Option 2: Download Individual Skills
