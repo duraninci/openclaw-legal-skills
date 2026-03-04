@@ -214,4 +214,26 @@ By using these materials, you agree to the terms in [LEGAL_DISCLAIMER.md](./LEGA
 
 ---
 
-**Created by** [Duran Inci](https://github.com/duraninci) — Built from real transactions, not textbooks.
+## 🛠️ Who Built This
+
+Built by **[Duran Inci](https://duraninci.com)** and the teams at **[Optimum7](https://optimum7.com)** and **[Zen Media](https://zenmedia.com)**.
+
+These skills came from real work — reviewing operating agreements, negotiating M&A deals, analyzing vendor contracts. We needed AI that could actually catch the stuff that matters, so we trained it on what we'd seen go wrong.
+
+**More of our work:**
+- 📺 [YouTube](https://youtube.com/@duraninci) — Business strategy, deals, AI
+- 🔗 [LinkedIn](https://linkedin.com/in/duraninci)
+- 🐦 [Twitter/X](https://twitter.com/duraninci)
+
+---
+
+## 🤝 Work With Us
+
+We're not a law firm. But if you need:
+
+| What | Who |
+|------|-----|
+| Ecommerce builds, migrations, custom dev | [Optimum7](https://optimum7.com) |
+| B2B PR, visibility, thought leadership | [Zen Media](https://zenmedia.com) |
+
+Always happy to connect with founders navigating complex deals.
